@@ -1,0 +1,1 @@
+Ceci est un fichier ou je fais l'analyse du churn en python, j'ai fais le data cleaning, l'analyse et la visualisation de certains aspect
